@@ -2,7 +2,16 @@
 
 ## About
 
-This tutorial popped into my YouTube recommendations, and I thought it would be fun to follow.
+This tutorial popped into my YouTube recommendations, and I thought it would be fun to follow. I'd love to make a game someday, and we all need to start somewhere!
+
+## Usage
+
+GitHub Pages: https://ghall89.github.io/mario-js/
+
+### Instructions
+
+- left and right arrow keys to move
+- space bar to jump
 
 ## Credits
 
